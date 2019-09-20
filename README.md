@@ -1,4 +1,4 @@
-# ScanS2-045-Nmap
+# Struts2-045-Nmap
 ScanS2-045-Nmap
 
 Struts2 S2-045 Nmap Scan Script
